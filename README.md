@@ -8,7 +8,7 @@ I didn't intend to play at first because I read that "the event starts at 09:30"
 
 ## Difficulty
 
-While it's still beginner-friendly, this seems harder than Cyber Apocalypse, another CTF I played earlier this year. For crypto, *no typical RSAs, the "custom cipher" and "block cipher" challenges are less typical*. For Web, *no more silly sql injection and IDORs*. For reverse and pwn, *I'm weak as always*. The blockchain and OSINT category are new to me. While I completed most of the OSINT challenges, I'm generally unfamiliar with blockchains ~plus I hate their carbon footprints~. Maybe Cyber Apocalypse was a fluke :/
+While it's still beginner-friendly, this seems harder than Cyber Apocalypse, another CTF I played earlier this year. For crypto, *no typical RSAs, the "custom cipher" and "block cipher" challenges are less typical*. For Web, *no more silly sql injection and IDORs*. For reverse and pwn, *I'm weak as always*. The blockchain and OSINT category are new to me. While I completed most of the OSINT challenges, I'm generally unfamiliar with blockchains ~plus I hate their carbon footprints~. The bright side is I had a lot to learn :smile:
 
 ## Playing solo
 
@@ -17,12 +17,12 @@ There are time sinkholes in this challenge that prove to be fatal for solo playe
 ## Other thoughts
 
 - I'm still reluctant in using bruteforcing tools, thinking it'll be slow and have other concerns; *IT WAS FAST* (<1s)
-- Don't doxx me
+- I only had 5 minutes left when I learnt of the solution to the non-se
 
 ### Favorite solved levels
 
 - Oracle for Block Cipher Enthusiasts - the situation is not very practical so it really needs some drawing-the-diagram-out.
-- JS Lock (Reversing) - finally it isn't beautifiers and web assembly.
+- JS Lock (Reversing) - finally it isn't beautifiers and web assembly. I used `JSON.stringify` to search at first, which turned out to be too slow.
 
 ### Favorite unsolved levels
 
